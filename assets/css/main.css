@@ -8,7 +8,7 @@ header {
     background: #000080;
     padding: 20px 30px;
     width: calc(100vw - 60px);
-    height: 32px;
+    height: 30px;
     z-index: 9999;
     position: fixed;
     top: 0px;
