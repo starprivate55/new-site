@@ -25,18 +25,9 @@ h2 {
     padding: 7px;
     display:table;
 }
-
-a:link {
-　　　color: #c3d825;
-} 
-
-a:visited {
-　　　color: #82ae46;
-} 
-
-a:active {
-　　　color: #b8d200;
-} 
+a {
+   color: #c7dc68;
+}
 
 main {
     background: #17184b;
