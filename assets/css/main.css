@@ -26,6 +26,18 @@ h2 {
     display:table;
 }
 
+a:link {
+　　　color: #c3d825;
+} 
+
+a:visited {
+　　　color: #82ae46;
+} 
+
+a:active {
+　　　color: #b8d200;
+} 
+
 main {
     background: #17184b;
     color: #ffffff;
