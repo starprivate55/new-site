@@ -1,1 +1,1 @@
-# new-site
+# starprivate55.comトップページ
